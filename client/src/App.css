@@ -1,0 +1,70 @@
+h2{
+    color:#17a2b8 ;
+}
+
+.mainContent {
+    height: 90vh;
+    background-image: url("../public/images/piggy.png");
+    background-size: auto;
+}
+
+.gradient {
+    background: linear-gradient(transparent 5%, #212529 85%);
+    height: 100%;
+    width: 100%;
+}
+
+/* this is picture code that will control the height and what not */
+
+.center-content {
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+/* create budget button control  */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+}
+h1 {
+    color: #17a2b8;
+}
+
+.button-group {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.button-group button {
+    margin-left: 15px;
+}
+
+.buttonSub {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10vh;
+}
+
+/* 
+this is a section for my create page classes 
+
+*/
+.showBox {
+    color: #17a2b8;
+    background-color: #17a2b8;
+    width: min-content;
+    margin-left: 20px;
+}
+
+/* 
+create account Css code 
+*/
+.CreateAccountBtn {
+    display: flex;
+    justify-content: center;
+}
