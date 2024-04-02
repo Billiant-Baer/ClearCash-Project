@@ -59,7 +59,7 @@ npm rundev
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-<img width="1512" alt="ClearCash" src="https://github.com/Billiant-Baer/ClearCashProject/assets/149335374/45bae381-2989-4902-9ad7-e0bcd82f335a">
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
